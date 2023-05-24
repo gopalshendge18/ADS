@@ -12,4 +12,7 @@ revert - svn revert "path_to_repo"
 
 cvs download link - https://www.march-hare.com/cvspro/
 
+svn server-  https://www.visualsvn.com/server/
+svn torties-  https://tortoisesvn.net/downloads.html
+
 
